@@ -1,0 +1,28 @@
+cd_uf;estado;nome;favorabilidade;importancia;classificacaoAtor;tipoDocumento;tipoAtor;apelido
+11;Rondônia;Governo do Estado de Rondônia;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Rondônia
+12;Acre;Governo do Estado do Acre;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Acre
+13;Amazonas;Governo do Estado do Amazonas;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Amazonas
+14;Roraima;Governo do Estado de Roraima;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Roraima
+15;Pará;Governo do Estado do Pará;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Pará
+16;Amapá;Governo do Estado do Amapá;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Amapá
+17;Tocantins;Governo do Estado de Tocantins;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Tocantins
+21;Maranhão;Governo do Estado do Maranhão;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Maranhão
+22;Piauí;Governo do Estado de Piauí;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Piauí
+23;Ceará;Governo do Estado do Ceará;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Ceará
+24;Rio Grande do Norte;Governo do Estado do Rio Grande do Norte;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Rio Grande do Norte
+25;Paraíba;Governo do Estado da Paraíba;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. da Paraíba
+26;Pernambuco;Governo do Estado de Pernambuco;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Pernambuco
+27;Alagoas;Governo do Estado de Alagoas;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Alagoas
+28;Sergipe;Governo do Estado de Sergipe;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Sergipe
+29;Bahia;Governo do Estado da Bahia;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. da Bahia
+31;Minas Gerais;Governo do Estado de Minas Gerais;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Minas Gerais
+32;Espírito Santo;Governo do Estado do Espírito Santo;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Espírito Santo
+33;Rio de Janeiro;Governo do Estado do Rio de Janeiro;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Rio de Janeiro
+35;São Paulo;Governo do Estado de São Paulo;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de São Paulo
+41;Paraná;Governo do Estado do Paraná;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Paraná
+42;Santa Catarina;Governo do Estado de Santa Catarina;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Santa Catarina
+43;Rio Grande do Sul;Governo do Estado do Rio Grande do Sul;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Rio Grande do Sul
+50;Mato Grosso do Sul;Governo do Estado do Mato Grosso do Sul;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Mato Grosso do Sul
+51;Mato Grosso;Governo do Estado do Mato Grosso;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Mato Grosso
+52;Goías;Governo do Estado de Goías;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. de Goías
+53;Distrito Federal;Governo do Distrito Federal;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;G. do Distrito Federal

@@ -1,0 +1,4 @@
+cd_pais;nome;favorabilidade;importancia;classificacaoAtor;tipoDocumento;tipoAtor;apelido
+76;Palácio do Planalto;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;Palácio do Planalto
+76;Câmara dos Deputados;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;Câmara dos Deputados
+76;Senado Federal;NEUTRO;ALTA;PODER PÚBLICO;CNPJ;PESSOA_JURIDICA;Senado Federal
