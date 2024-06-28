@@ -1,0 +1,16 @@
+nome;tipoAtor
+Prefeito;PESSOA_FISICA
+Vice-Prefeito;PESSOA_FISICA
+Vereador;PESSOA_FISICA
+Governador;PESSOA_FISICA
+Vice-Governador;PESSOA_FISICA
+Senador;PESSOA_FISICA
+Deputado Federal;PESSOA_FISICA
+Deputado Estadual;PESSOA_FISICA
+1º Suplente;PESSOA_FISICA
+2º Suplente;PESSOA_FISICA
+Presidente;PESSOA_FISICA
+Vice-Presidente;PESSOA_FISICA
+Deputado Distrital;PESSOA_FISICA
+Partido Político;PESSOA_JURIDICA
+Poder Público;PESSOA_JURIDICA
